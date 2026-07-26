@@ -4,7 +4,7 @@ const options = {
     host: 'Ragnarok01.aternos.me',        
     port: 30047,                            
     username: 'BedrockBot',                 
-    version: '1.26.33',                     
+    version: '1.26.30',                     
     offline: true                           
 };
 
