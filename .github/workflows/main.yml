@@ -45,5 +45,5 @@ jobs:
       # قفل التشغيل لـ 230 دقيقة (أقل من 4 ساعات)
       timeout-minutes: 230
       run: npm start
-      continue-on-error: true
+      continue-on-error: false
 
