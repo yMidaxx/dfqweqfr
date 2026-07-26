@@ -1,10 +1,10 @@
 const bedrock = require('bedrock-protocol');
 
 const options = {
-    host: 'Bluelightmine.aternos.me',        
-    port: 51069,                            
+    host: 'Ragnarok01.aternos.me',        
+    port: 30047,                            
     username: 'BedrockBot',                 
-    version: '1.26.20',                     
+    version: '1.26.33',                     
     offline: true                           
 };
 
